@@ -21,7 +21,7 @@ Wir entwickeln ausschließlich für unsere eigenen Server und Projekte – mit F
 Wir entwickeln **nicht für andere**, sondern ausschließlich für unsere **eigene Community**.  
 Unser Ziel: Ein durchdachtes, starkes Minecraft-Erlebnis – für und mit unserer Community.
 
-> 🎟️ Ausnahemn können unter Absprache gemacht werden. Erstelle dafür ein Admin-Ticket auf unserem [Discord](https://zickzacknetwork.de/discord).
+> 🎟️ Ausnahmen können unter Absprache gemacht werden. Erstelle dafür ein Admin-Ticket auf unserem [Discord](https://zickzacknetwork.de/discord).
 ---
 
 
