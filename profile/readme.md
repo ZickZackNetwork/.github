@@ -1,6 +1,6 @@
 # ⚡ ZickZackNetwork
 
-Wir sind die Entwickler hinter allen Plugens und mehr unserer Minecraft-Community.  
+Wir sind die Entwickler hinter allen Plugins und mehr unserer Minecraft-Community.  
 Wir entwickeln ausschließlich für unsere eigenen Server und Projekte – mit Fokus auf Stabilität und maximalen Spielspaß für unsere Community.
 
 ---
