@@ -31,6 +31,7 @@ Du hast Interesse an Minecraft-Entwicklung oder willst Teil unserer Community we
 Dann schau auf unserem Discord-Server vorbei:
 
 👉 [Discord beitreten](https://zickzacknetwork.de/discord)
+
 🔗 [Website](https://zickzacknetwork.de/)
 
 ---
