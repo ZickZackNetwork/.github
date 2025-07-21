@@ -1,4 +1,4 @@
-# 🌀 ZickZackNetwork
+# ⚡ ZickZackNetwork
 
 Wir sind die Entwickler hinter allen Plugens und mehr unserer Minecraft-Community.  
 Wir entwickeln ausschließlich für unsere eigenen Server und Projekte – mit Fokus auf Stabilität und maximalen Spielspaß für unsere Community.
@@ -25,7 +25,7 @@ Unser Ziel: Ein durchdachtes, starkes Minecraft-Erlebnis – für und mit unsere
 ---
 
 
-## 🤝 Teil von ZickZack werden?
+## 🤝 Teil von ZickZackNetwork werden?
 
 Du hast Interesse an Minecraft-Entwicklung oder willst Teil unserer Community werden?  
 Dann schau auf unserem Discord-Server vorbei:
